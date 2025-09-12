@@ -1,0 +1,51 @@
+Employee,EmployeeNr,Position,Department,Age,Gender,Tenure,HireDate,Exit Date,Turnover Type,Turnover Reason,Hours Worked,Salary Per Hour,Absenteeism Days,Absenteeism Date,Promotion
+Employee_1,E001,Plumber,Design,41,Female,8,28/11/2018,06/01/2021,Involuntary,Project completed,207,44,1,08/06/2025,Promoted to Lead Plumber
+Employee_2,E002,Project Manager,Project Management,21,Male,6,29/11/2000,,,,175,18,15,19/02/2025,
+Employee_3,E003,Plumber,Operations,43,Male,19,19/02/2005,,,,170,29,3,10/01/2025,Promoted to Lead Plumber
+Employee_4,E004,Heavy Machine Operator,Logistics,45,Female,6,30/05/2003,,,,213,50,7,23/02/2025,Promoted to Senior Heavy Machine Operator
+Employee_5,E005,Heavy Machine Operator,Engineering,56,Male,11,24/11/2023,,,,183,14,10,28/01/2025,Promoted to Senior Heavy Machine Operator
+Employee_6,E006,Plumber,Engineering,47,Female,20,15/08/2020,,,,187,21,8,25/09/2025,Promoted to Senior Plumber
+Employee_7,E007,Plumber,Logistics,57,Female,10,05/01/2011,,,,165,27,14,25/04/2025,Promoted to Senior Plumber
+Employee_8,E008,Mason,Logistics,41,Male,15,31/07/2014,11/08/2019,Involuntary,Personal reasons,176,31,8,18/05/2025,
+Employee_9,E009,Welder,Health & Safety,25,Male,13,30/11/2021,,,,175,40,15,26/08/2025,
+Employee_10,E010,Project Manager,Operations,34,Female,7,25/09/2013,,,,183,40,11,24/07/2025,Promoted to Lead Project Manager
+Employee_11,E011,Quantity Surveyor,Design,49,Female,9,11/04/2011,13/11/2015,Involuntary,Project completed,207,44,5,07/04/2025,Promoted to Lead Quantity Surveyor
+Employee_12,E012,Plumber,Operations,57,Other,19,10/09/2012,,,,213,22,9,12/04/2025,
+Employee_13,E013,Safety Officer,Project Management,54,Male,8,15/01/2002,,,,195,28,4,04/08/2025,
+Employee_14,E014,Mason,Operations,50,Female,14,14/04/2015,15/09/2016,Involuntary,Personal reasons,190,17,2,16/07/2025,
+Employee_15,E015,Mason,Project Management,29,Male,18,18/08/2013,21/06/2019,Voluntary,Performance issue,208,36,7,13/09/2025,Promoted to Senior Mason
+Employee_16,E016,Plumber,Operations,57,Female,9,13/09/2002,,,,207,16,6,09/04/2025,Promoted to Lead Plumber
+Employee_17,E017,Project Manager,Procurement,35,Male,17,14/05/2003,19/10/2012,Involuntary,Retirement,198,40,9,08/01/2025,Promoted to Senior Project Manager
+Employee_18,E018,Architect,Operations,49,Male,7,13/11/2011,,,,200,47,6,04/07/2025,Promoted to Lead Architect
+Employee_19,E019,Foreman,Procurement,37,Male,2,04/09/2002,05/11/2009,Involuntary,Health and safety concerns,167,39,9,09/07/2025,Promoted to Lead Foreman
+Employee_20,E020,Welder,Construction Crew,48,Male,19,15/10/2001,,,,207,30,8,03/01/2025,
+Employee_21,E021,Heavy Machine Operator,Project Management,37,Male,1,10/11/2007,,,,201,38,8,19/03/2025,Promoted to Senior Heavy Machine Operator
+Employee_22,E022,Heavy Machine Operator,Construction Crew,25,Female,11,26/04/2018,07/12/2020,Voluntary,Better opportunity,186,41,9,27/07/2025,Promoted to Lead Heavy Machine Operator
+Employee_23,E023,Site Engineer,Construction Crew,25,Female,8,02/07/2014,03/11/2023,Voluntary,Retirement,215,44,14,02/07/2025,
+Employee_24,E024,Welder,Design,59,Female,20,30/10/2019,,,,173,27,4,15/05/2025,Promoted to Lead Welder
+Employee_25,E025,Plumber,Engineering,21,Male,19,25/09/2010,,,,179,45,0,14/09/2025,
+Employee_26,E026,Foreman,Engineering,49,Male,20,27/11/2006,,,,205,28,8,27/07/2025,Promoted to Senior Foreman
+Employee_27,E027,Plumber,Health & Safety,49,Male,4,16/03/2017,,,,207,18,2,25/05/2025,Promoted to Senior Plumber
+Employee_28,E028,Quantity Surveyor,Operations,20,Female,9,18/12/2021,,,,188,44,15,11/06/2025,Promoted to Lead Quantity Surveyor
+Employee_29,E029,Welder,Logistics,49,Female,6,17/09/2010,,,,174,36,1,24/06/2025,Promoted to Senior Welder
+Employee_30,E030,Architect,Logistics,44,Male,20,28/10/2006,,,,162,18,10,28/02/2025,Promoted to Senior Architect
+Employee_31,E031,Project Manager,Construction Crew,20,Female,4,23/05/2018,,,,169,14,15,11/05/2025,Promoted to Lead Project Manager
+Employee_32,E032,Architect,Logistics,25,Female,17,17/01/2017,,,,200,41,1,08/02/2025,Promoted to Lead Architect
+Employee_33,E033,Heavy Machine Operator,Operations,34,Female,2,20/06/2019,,,,208,50,3,06/08/2025,Promoted to Lead Heavy Machine Operator
+Employee_34,E034,Safety Officer,Project Management,22,Female,1,27/02/2013,,,,187,19,7,14/09/2025,Promoted to Lead Safety Officer
+Employee_35,E035,Heavy Machine Operator,Procurement,30,Male,2,27/02/2017,,,,175,41,4,15/04/2025,Promoted to Lead Heavy Machine Operator
+Employee_36,E036,Safety Officer,Construction Crew,36,Male,0,13/11/2020,,,,203,44,5,15/02/2025,Promoted to Senior Safety Officer
+Employee_37,E037,Mason,Operations,60,Female,8,28/06/2020,,,,172,34,15,08/02/2025,Promoted to Senior Mason
+Employee_38,E038,Mason,Design,56,Female,9,25/12/2000,,,,202,35,8,19/01/2025,Promoted to Lead Mason
+Employee_39,E039,Architect,Project Management,58,Male,15,02/11/2012,,,,174,48,11,21/04/2025,
+Employee_40,E040,Mason,Operations,28,Male,3,07/10/2001,05/12/2011,Voluntary,Performance issue,183,18,2,11/05/2025,Promoted to Lead Mason
+Employee_41,E041,Electrician,Procurement,32,Male,17,30/05/2016,,,,218,27,5,27/05/2025,Promoted to Senior Electrician
+Employee_42,E042,Safety Officer,Design,27,Female,2,25/04/2006,,,,174,35,11,26/02/2025,Promoted to Senior Safety Officer
+Employee_43,E043,Site Engineer,Operations,54,Male,14,13/07/2016,,,,203,26,12,04/06/2025,Promoted to Lead Site Engineer
+Employee_44,E044,Foreman,Construction Crew,21,Other,17,18/09/2014,,,,174,14,14,21/05/2025,Promoted to Senior Foreman
+Employee_45,E045,Project Manager,Procurement,22,Male,9,05/02/2022,,,,216,44,4,15/07/2025,Promoted to Senior Project Manager
+Employee_46,E046,Heavy Machine Operator,Logistics,57,Other,4,11/08/2018,,,,213,41,13,02/05/2025,Promoted to Lead Heavy Machine Operator
+Employee_47,E047,Quantity Surveyor,Health & Safety,48,Female,7,08/04/2016,12/10/2024,Involuntary,Project completed,185,27,6,28/02/2025,Promoted to Senior Quantity Surveyor
+Employee_48,E048,Project Manager,Health & Safety,60,Female,0,08/04/2002,,,,175,18,6,27/02/2025,Promoted to Lead Project Manager
+Employee_49,E049,Foreman,Health & Safety,34,Female,4,16/02/2000,24/08/2003,Voluntary,Performance issue,176,21,3,05/01/2025,
+Employee_50,E050,Quantity Surveyor,Health & Safety,57,Female,0,25/10/2007,06/12/2010,Involuntary,Performance issue,167
